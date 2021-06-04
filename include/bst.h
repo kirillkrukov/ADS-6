@@ -61,6 +61,4 @@ else
     return root->c;
 }
 };
-
 #endif  // INCLUDE_BST_H_
-
